@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to leverage data analytics and machine learning techniques to analyze and predict credit card default risk. By proactively identifying customers at risk of defaulting on credit card payments, the goal is to minimize financial losses and enhance customer relationship management for financial institutions.
+This project aims to leverage data analytics and machine learning techniques to analyze and predict credit card default risk. A financial service company's primary product is a high-value credit card associated with high customer lifetime values (LTVs). The partner is looking to reduce losses from customer defaults by offering a new, lower-value card that supports balance management and helps customers avoid default. By proactively identifying customers at risk of defaulting on credit card payments, the goal is to minimize financial losses and enhance customer relationship management for financial institutions. These customers who are at risk of defaulting on credit card will be offered the new balance management card while keeping the good customers in the high-LTV traditional card.
 
 ## Motivation
 
